@@ -7,7 +7,7 @@ This repository will create the summary of a video, time-segmented summary of th
 * ollama
 * whisper
 
-Usage:\n
+Usage:
 ```
 python main.py <path to video> <Output directory>
 ```
