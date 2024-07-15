@@ -1,0 +1,163 @@
+ERROR: Incorrect number of arguments.
+INFO: 
+    Usage: python main.py [VIDEO_PATH] [OUTPUT_DIR]
+    
+    Arguments:
+    VIDEO_PATH   Path to the Input_video file to be processed.
+    OUTPUT_DIR   Directory where the output files will be saved.
+
+    Description:
+    This script reads a video file, transcribes the audio, generates a summary, 
+    and provides a topic summary. The outputs are saved in the specified output directory.
+    
+ERROR: Incorrect number of arguments.
+INFO: 
+    Usage: python main.py [VIDEO_PATH] [OUTPUT_DIR]
+    
+    Arguments:
+    VIDEO_PATH   Path to the Input_video file to be processed.
+    OUTPUT_DIR   Directory where the output files will be saved.
+
+    Description:
+    This script reads a video file, transcribes the audio, generates a summary, 
+    and provides a topic summary. The outputs are saved in the specified output directory.
+    
+ERROR: Incorrect number of arguments.
+INFO: 
+    Usage: python main.py [VIDEO_PATH] [OUTPUT_DIR]
+    
+    Arguments:
+    VIDEO_PATH   Path to the Input_video file to be processed.
+    OUTPUT_DIR   Directory where the output files will be saved.
+
+    Description:
+    This script reads a video file, transcribes the audio, generates a summary, 
+    and provides a topic summary. The outputs are saved in the specified output directory.
+    
+ERROR: Incorrect number of arguments.
+INFO: 
+    Usage: python main.py [VIDEO_PATH] [OUTPUT_DIR]
+    
+    Arguments:
+    VIDEO_PATH   Path to the Input_video file to be processed.
+    OUTPUT_DIR   Directory where the output files will be saved.
+
+    Description:
+    This script reads a video file, transcribes the audio, generates a summary, 
+    and provides a topic summary. The outputs are saved in the specified output directory.
+    
+ERROR: Incorrect number of arguments.
+INFO: 
+    Usage: python main.py [VIDEO_PATH] [OUTPUT_DIR]
+    
+    Arguments:
+    VIDEO_PATH   Path to the Input_video file to be processed.
+    OUTPUT_DIR   Directory where the output files will be saved.
+
+    Description:
+    This script reads a video file, transcribes the audio, generates a summary, 
+    and provides a topic summary. The outputs are saved in the specified output directory.
+    
+2024-07-11 13:41:57,798 - INFO - Logging Initialised
+2024-07-11 13:41:57,798 - ERROR - Incorrect number of arguments.
+2024-07-11 13:41:57,798 - INFO - 
+    Usage: python main.py [VIDEO_PATH] [OUTPUT_DIR]
+    
+    Arguments:
+    VIDEO_PATH   Path to the Input_video file to be processed.
+    OUTPUT_DIR   Directory where the output files will be saved.
+
+    Description:
+    This script reads a video file, transcribes the audio, generates a summary, 
+    and provides a topic summary. The outputs are saved in the specified output directory.
+    
+2024-07-11 13:43:26,287 - INFO - Logging Initialised
+2024-07-11 13:43:26,287 - INFO - 
+    Usage: python main.py [VIDEO_PATH] [OUTPUT_DIR]
+    
+    Arguments:
+    VIDEO_PATH   Path to the Input_video file to be processed.
+    OUTPUT_DIR   Directory where the output files will be saved.
+
+    Description:
+    This script reads a video file, transcribes the audio, generates a summary, 
+    and provides a topic summary. The outputs are saved in the specified output directory.
+    
+2024-07-11 13:53:23,735 - INFO - Logging Initialised
+2024-07-11 13:53:23,735 - INFO - 
+    Usage: python main.py [VIDEO_PATH] [OUTPUT_DIR]
+    
+    Arguments:
+    VIDEO_PATH   Path to the Input_video file to be processed.
+    OUTPUT_DIR   Directory where the output files will be saved.
+
+    Description:
+    This script reads a video file, transcribes the audio, generates a summary, 
+    and provides a topic summary. The outputs are saved in the specified output directory.
+    
+2024-07-11 13:53:40,744 - INFO - Logging Initialised
+2024-07-11 13:53:40,744 - ERROR - Incorrect number of arguments.
+2024-07-11 13:53:40,745 - INFO - 
+    Usage: python main.py [VIDEO_PATH] [OUTPUT_DIR]
+    
+    Arguments:
+    VIDEO_PATH   Path to the Input_video file to be processed.
+    OUTPUT_DIR   Directory where the output files will be saved.
+
+    Description:
+    This script reads a video file, transcribes the audio, generates a summary, 
+    and provides a topic summary. The outputs are saved in the specified output directory.
+    
+2024-07-12 08:50:34,571 - INFO - Logging Initialised
+2024-07-12 08:50:34,571 - ERROR - Incorrect number of arguments.
+2024-07-12 08:50:34,571 - INFO - 
+    Usage: python main.py [VIDEO_PATH] [OUTPUT_DIR]
+    
+    Arguments:
+    VIDEO_PATH   Path to the Input_video file to be processed.
+    OUTPUT_DIR   Directory where the output files will be saved.
+
+    Description:
+    This script reads a video file, transcribes the audio, generates a summary, 
+    and provides a topic summary. The outputs are saved in the specified output directory.
+    
+2024-07-12 08:51:20,168 - INFO - Logging Initialised
+2024-07-12 08:51:20,168 - INFO - Reading video...
+2024-07-12 08:51:20,391 - INFO - Getting transcription...
+2024-07-12 08:52:13,207 - INFO - Saving transcription to OutputDir/transcription.txt...
+2024-07-12 08:52:13,208 - INFO - Generating summary...
+2024-07-12 08:53:13,096 - INFO - Logging Initialised
+2024-07-12 08:53:13,096 - INFO - Reading video...
+2024-07-12 08:53:13,205 - INFO - Getting transcription...
+2024-07-12 08:54:03,608 - INFO - Saving transcription to OutputDir/transcription.txt...
+2024-07-12 08:54:03,609 - INFO - Generating topic summary...
+2024-07-12 08:59:46,531 - INFO - Logging Initialised
+2024-07-12 08:59:46,533 - INFO - Reading video...
+2024-07-12 08:59:46,638 - INFO - Getting transcription...
+2024-07-12 09:00:37,000 - INFO - Saving transcription to OutputDir/transcription.txt...
+2024-07-12 09:00:37,000 - INFO - Generating topic summary...
+2024-07-12 09:00:50,291 - INFO - Saving topic summary to OutputDir/topic_summary.txt...
+2024-07-12 09:00:50,292 - INFO - Generating summary...
+2024-07-12 09:00:56,611 - INFO - Saving summary to OutputDir/summary.txt...
+2024-07-12 09:00:56,706 - INFO - Data saved to database successfully
+2024-07-12 09:00:56,706 - INFO - Process completed successfully.
+2024-07-12 09:02:08,336 - INFO - Logging Initialised
+2024-07-12 09:02:08,336 - INFO - Reading video...
+2024-07-12 09:02:08,499 - INFO - Getting transcription...
+2024-07-12 09:05:36,125 - INFO - Saving transcription to OutputDir/transcription.txt...
+2024-07-12 09:05:36,126 - INFO - Generating topic summary...
+2024-07-12 09:05:59,771 - INFO - Saving topic summary to OutputDir/topic_summary.txt...
+2024-07-12 09:05:59,771 - INFO - Generating summary...
+2024-07-12 09:06:16,719 - INFO - Saving summary to OutputDir/summary.txt...
+2024-07-12 09:06:16,779 - INFO - Data saved to database successfully
+2024-07-12 09:06:16,779 - INFO - Process completed successfully.
+2024-07-12 09:07:47,576 - INFO - Logging Initialised
+2024-07-12 09:07:47,576 - INFO - Reading video...
+2024-07-12 09:07:47,751 - INFO - Getting transcription...
+2024-07-12 09:11:03,027 - INFO - Saving transcription to OutputDir/transcription.txt...
+2024-07-12 09:11:03,027 - INFO - Generating topic summary...
+2024-07-12 09:11:24,639 - INFO - Saving topic summary to OutputDir/topic_summary.txt...
+2024-07-12 09:11:24,639 - INFO - Generating summary...
+2024-07-12 09:11:35,799 - INFO - Saving summary to OutputDir/summary.txt...
+2024-07-12 09:11:35,869 - INFO - Data saved to database successfully
+2024-07-12 09:11:35,869 - INFO - Process completed successfully.
