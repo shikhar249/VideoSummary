@@ -8,4 +8,6 @@ This repository will create the summary of a video, time-segmented summary of th
 * whisper
 
 Usage:\n
-```python main.py <path to video> <Output directory>```
+```
+python main.py <path to video> <Output directory>
+```
